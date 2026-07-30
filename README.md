@@ -4,7 +4,7 @@
 
 
 <div>
-<img src="https://github.com/DonggeunJung/ListSearch/blob/main/ListSearch_Screenshot.jpg?raw=true width="200px"></img>
+<img src="https://github.com/DonggeunJung/ListSearch/blob/main/ListSearch_Screenshot.png?raw=true width="200px"></img>
 </div>
 
 
