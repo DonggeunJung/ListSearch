@@ -4,7 +4,7 @@
 
 
 <div>
-<img src="https://github.com/DonggeunJung/ListSearch/blob/main/ListSearch_Screenshot.png?raw=true width="200px"></img>
+<img src="https://github.com/DonggeunJung/ListSearch/blob/main/ListSearch_Screenshot.png?raw=true width="150px"></img>
 </div>
 
 
@@ -21,6 +21,9 @@
 10. StateFlow
 11. Flow                                                                                                                          
 
+
+< Used Json API URL >
+https://jsonplaceholder.typicode.com/users
 
 
 < Additional Infomation >
